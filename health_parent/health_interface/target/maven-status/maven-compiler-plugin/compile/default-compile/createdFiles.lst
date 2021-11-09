@@ -1,0 +1,8 @@
+com\jxy\service\MemberService.class
+com\jxy\service\OrderService.class
+com\jxy\service\CheckItemService.class
+com\jxy\service\ReportService.class
+com\jxy\service\OrderSettingService.class
+com\jxy\service\UserService.class
+com\jxy\service\CheckGroupService.class
+com\jxy\service\SetmealService.class

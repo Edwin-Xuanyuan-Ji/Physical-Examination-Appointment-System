@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="749306e5-e1ec-45d1-92e9-51f13baa3bbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/javaweb/Maven/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\javaweb\Maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yBqPcRLjo7xN0EkNOnWvwRIZyQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.23325635" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\health_parent\health_backend\src\main\resources" />
+      <recent name="D:\IdeaProjects\health_parent\health_backend\src\main\webapp\template" />
+      <recent name="D:\IdeaProjects\health_parent\health_backend\src\main\webapp\pages" />
+      <recent name="D:\IdeaProjects\health_parent\health_backend\src\main\webapp\plugins\echarts" />
+      <recent name="D:\IdeaProjects\health_parent\health_backend\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jxy.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\health_parent\health_backend\src\main\webapp\template" />
+      <recent name="D:\IdeaProjects\health_parent\health_service_provider\src\main\webapp\WEB-INF\ftl" />
+      <recent name="D:\IdeaProjects\health_parent\health_backend\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.health_backend [tomcat7:run]">
+    <configuration name="QiNiuTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="health_common" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QiNiuTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QiNiuTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="health_common" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="QiNiuTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="health_backend [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../health_parent/health_backend" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="health_mobile [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../health_parent/health_mobile" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="health_service_provider [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/../health_parent/health_service_provider" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.health_backend [tomcat7:run]" />
+        <item itemvalue="Maven.health_service_provider [tomcat7:run]" />
+        <item itemvalue="Maven.health_mobile [tomcat7:run]" />
+        <item itemvalue="JUnit.QiNiuTest.test2" />
+        <item itemvalue="JUnit.QiNiuTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749306e5-e1ec-45d1-92e9-51f13baa3bbf" name="Default Changelist" comment="" />
+      <created>1631735305506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631735305506</updated>
+      <workItem from="1631735307997" duration="2369000" />
+      <workItem from="1631737723318" duration="1067000" />
+      <workItem from="1631738811726" duration="3564000" />
+      <workItem from="1631768866344" duration="411000" />
+      <workItem from="1631817551875" duration="7258000" />
+      <workItem from="1631994939942" duration="4822000" />
+      <workItem from="1632076995731" duration="12182000" />
+      <workItem from="1632343732824" duration="2589000" />
+      <workItem from="1632423312653" duration="10357000" />
+      <workItem from="1632514205160" duration="9502000" />
+      <workItem from="1632542775294" duration="1314000" />
+      <workItem from="1632663092406" duration="6648000" />
+      <workItem from="1632686129188" duration="5390000" />
+      <workItem from="1632700350386" duration="2529000" />
+      <workItem from="1632773297884" duration="7506000" />
+      <workItem from="1632877890408" duration="10171000" />
+      <workItem from="1632921303873" duration="629000" />
+      <workItem from="1632946290880" duration="4139000" />
+      <workItem from="1633288204865" duration="8400000" />
+      <workItem from="1633465047024" duration="10691000" />
+      <workItem from="1633532940595" duration="3504000" />
+      <workItem from="1633544915461" duration="2447000" />
+      <workItem from="1633972953011" duration="7862000" />
+      <workItem from="1634070574478" duration="5179000" />
+      <workItem from="1634087937941" duration="7235000" />
+      <workItem from="1634122491649" duration="45000" />
+      <workItem from="1634136033277" duration="1106000" />
+      <workItem from="1634240547656" duration="14238000" />
+      <workItem from="1634314615590" duration="12250000" />
+      <workItem from="1634409361994" duration="10198000" />
+      <workItem from="1634667498455" duration="3070000" />
+      <workItem from="1635377748348" duration="3562000" />
+      <workItem from="1635457305279" duration="642000" />
+      <workItem from="1635471778846" duration="1208000" />
+      <workItem from="1635535241527" duration="9194000" />
+      <workItem from="1635553164266" duration="5784000" />
+      <workItem from="1635619168980" duration="9074000" />
+      <workItem from="1635815240600" duration="637000" />
+      <workItem from="1635882331679" duration="6561000" />
+      <workItem from="1635938017246" duration="14000" />
+      <workItem from="1635949934649" duration="3883000" />
+      <workItem from="1635992231714" duration="600000" />
+      <workItem from="1636039572728" duration="12530000" />
+      <workItem from="1636140652934" duration="3242000" />
+      <workItem from="1636237778665" duration="5270000" />
+      <workItem from="1636298564918" duration="678000" />
+      <workItem from="1636325876127" duration="1411000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1636074860393">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1636074860393" />
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1636075285191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1636075285191" />
+    <state x="500" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1633469575191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="500" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1633469575191" />
+    <state x="549" y="113" key="FileChooserDialogImpl" timestamp="1636300185709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1636300185709" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state width="1493" height="192" key="GridCell.Tab.1.bottom" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state width="1493" height="192" key="GridCell.Tab.1.center" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state width="1493" height="192" key="GridCell.Tab.1.left" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state width="1493" height="192" key="GridCell.Tab.1.right" timestamp="1636261575914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1636261575914" />
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog" timestamp="1635538835131">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="71" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1635538835131" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1636261352630">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1636261352630" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1636298632314">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1636298632314" />
+    <state x="499" y="177" key="extract.method.dialog" timestamp="1632886813561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="177" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1632886813561" />
+    <state x="196" y="45" key="new project wizard" timestamp="1634122534248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="196" y="45" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1634122534248" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1634073072502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1634073072502" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1635952502111">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1635952502111" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../vue_test/test/src/test.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

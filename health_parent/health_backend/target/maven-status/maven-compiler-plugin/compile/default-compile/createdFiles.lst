@@ -1,0 +1,7 @@
+com\jxy\controller\SetMealController.class
+com\jxy\service\SpringSecurityUserService.class
+com\jxy\controller\UserController.class
+com\jxy\controller\OrderSettingController.class
+com\jxy\controller\CheckItemController.class
+com\jxy\controller\ReportController.class
+com\jxy\controller\CheckGroupController.class

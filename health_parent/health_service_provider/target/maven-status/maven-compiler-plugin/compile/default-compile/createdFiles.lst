@@ -1,0 +1,17 @@
+com\jxy\service\impl\ReportServiceImpl.class
+com\jxy\dao\RoleDao.class
+com\jxy\dao\UserDao.class
+com\jxy\service\impl\OrderServiceImpl.class
+com\jxy\service\impl\CheckGroupServiceImpl.class
+com\jxy\dao\OrderSettingDao.class
+com\jxy\service\impl\SetmealServiceImpl.class
+com\jxy\service\impl\OrderSettingServiceImpl.class
+com\jxy\dao\MemberDao.class
+com\jxy\service\impl\UserServiceImpl.class
+com\jxy\dao\PermissionDao.class
+com\jxy\service\impl\MemberServiceImpl.class
+com\jxy\dao\CheckItemDao.class
+com\jxy\dao\OrderDao.class
+com\jxy\dao\CheckGroupDao.class
+com\jxy\dao\SetmealDao.class
+com\jxy\service\impl\CheckItemServiceImpl.class
