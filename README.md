@@ -50,7 +50,8 @@ Third-party service: Ali Cloud SMS, Qiniu Cloud Storage, Wechat development plat
 
 ![image](https://user-images.githubusercontent.com/81521033/180389358-dd291025-eaba-4087-98c2-375419e5b2a4.png)
 
-
+## Table Structure
+https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/edit/main/README.md
 
 ## Screenshots
 ### Front stage appointment system
