@@ -1,5 +1,21 @@
 # Physical Examination Appointment Management System
 
+**Table of Contents**
+
+-[Background](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Background)
+
+-[Introduction](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Introduction)
+
+-[Program Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Program-Architecture)
+
+-[Technology Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Technology-Architecture)
+
+-[Function Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Function-Architecture)
+
+-[Screenshots](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Screenshots)
+
+-[Environment](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Environment)
+
 ## Background
 This appointment management system is a business system developed for medical institutions. This system realizes the visualization of the work content of medical institutions, the specialization of member management, the digitization of health assessment, the workflow of health intervention, and the integration of knowledge base, so as to improve the work efficiency of medical workers, strengthen the interaction with members, and enhance healthcare workers' understanding of the operation of medical institutions.
 
@@ -8,13 +24,13 @@ This project includes the front stage reservation system and the back stage admi
 
 ## Program Architecture
 
-  health_parent
-  ├── health_common -- tools and general codes
-  ├── health_backend -- back stage admin management system module
-  ├── health_mobile -- front stage appointment system module
-  ├── health_interface -- service interface module
-  ├── health_service_provider -- service provider module
-  └── health_jobs -- system jobs module
+    health_parent
+    ├── health_common -- tools and general codes
+    ├── health_backend -- back stage admin management system module
+    ├── health_mobile -- front stage appointment system module
+    ├── health_interface -- service interface module
+    ├── health_service_provider -- service provider module
+    └── health_jobs -- system jobs module
 
 ## Technology Architecture
 
@@ -33,6 +49,8 @@ Third-party service: Ali Cloud SMS, Qiniu Cloud Storage, Wechat development plat
 ## Function Architecture
 
 ![image](https://user-images.githubusercontent.com/81521033/180389358-dd291025-eaba-4087-98c2-375419e5b2a4.png)
+
+
 
 ## Screenshots
 ### Front stage appointment system
@@ -83,6 +101,13 @@ Operation data
 
 ![image](https://user-images.githubusercontent.com/81521033/180383687-d5e6ee67-5331-4ef7-8b95-d31398ffda18.png)
 
+## Environment 
+| Tool        | Version     | Link     |
+| ----------- | ----------- | --------                                                                 |
+| JDK         | 1.8         |https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html|
+| MySQL       | 5.7         |https://www.mysql.com                                                     |
+| Redis       | 3.2         |https://redis.io/download                                                 |
+| Zookeeper   | 3.4.6       |https://zookeeper.apache.org/                                             |
 
 
 
