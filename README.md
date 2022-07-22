@@ -12,6 +12,8 @@
 
 -[Function Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Function-Architecture)
 
+-[Table Structure](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Table Structure)
+
 -[Screenshots](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Screenshots)
 
 -[Environment](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Environment)
@@ -51,7 +53,8 @@ Third-party service: Ali Cloud SMS, Qiniu Cloud Storage, Wechat development plat
 ![image](https://user-images.githubusercontent.com/81521033/180389358-dd291025-eaba-4087-98c2-375419e5b2a4.png)
 
 ## Table Structure
-https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/edit/main/README.md
+
+![image](https://user-images.githubusercontent.com/81521033/180396091-9b3fcffe-1847-487c-890c-3417c7b9af96.png)
 
 ## Screenshots
 ### Front stage appointment system
