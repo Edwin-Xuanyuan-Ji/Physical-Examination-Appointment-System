@@ -12,7 +12,7 @@
 
 -[Function Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Function-Architecture)
 
--[Table Structure](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Table Structure)
+-[Table Structure](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Table-Structure)
 
 -[Screenshots](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Screenshots)
 
