@@ -2,7 +2,7 @@
 
 **Table of Contents**
 
--[Background](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Background)
+-[Background](#Background)
 
 -[Introduction](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Introduction)
 
