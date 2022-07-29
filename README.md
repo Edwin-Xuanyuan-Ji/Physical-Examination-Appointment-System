@@ -4,19 +4,19 @@
 
 -[Background](#Background)
 
--[Introduction](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Introduction)
+-[Introduction](#Introduction)
 
--[Program Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Program-Architecture)
+-[Program Architecture](#Program-Architecture)
 
--[Technology Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Technology-Architecture)
+-[Technology Architecture](#Technology-Architecture)
 
--[Function Architecture](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Function-Architecture)
+-[Function Architecture](#Function-Architecture)
 
--[Table Structure](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Table-Structure)
+-[Table Structure](#Table-Structure)
 
--[Screenshots](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Screenshots)
+-[Screenshots](#Screenshots)
 
--[Environment](https://github.com/Edwin-Xuanyuan-Ji/Physical-Examination-Appointment-System/tree/main/Environment)
+-[Environment](#Environment)
 
 ## Background
 This appointment management system is a business system developed for medical institutions. This system realizes the visualization of the work content of medical institutions, the specialization of member management, the digitization of health assessment, the workflow of health intervention, and the integration of knowledge base, so as to improve the work efficiency of medical workers, strengthen the interaction with members, and enhance healthcare workers' understanding of the operation of medical institutions.
