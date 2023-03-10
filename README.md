@@ -56,55 +56,6 @@ Third-party service: Ali Cloud SMS, Qiniu Cloud Storage, Wechat development plat
 
 ![image](https://user-images.githubusercontent.com/81521033/180396091-9b3fcffe-1847-487c-890c-3417c7b9af96.png)
 
-## Screenshots
-### Front stage appointment system
-Login
-
-![image](https://user-images.githubusercontent.com/81521033/180381112-a1a27134-6cc7-43e6-bddd-e80b0368f36c.png)
-
-![image](https://user-images.githubusercontent.com/81521033/180381243-51bf88c9-cbc2-4dc2-a4a1-3bd28ce90a46.png)
-
-Appointment
-
-![image](https://user-images.githubusercontent.com/81521033/180381472-eef31c75-299e-4c6d-bdc0-9d638fca99ae.png)
-
-![image](https://user-images.githubusercontent.com/81521033/180381542-93634956-4e43-4b55-aa0f-5b527f26ee02.png)
-
-![image](https://user-images.githubusercontent.com/81521033/180381644-3359f5eb-3797-4819-8c0b-c8e1067865fc.png)
-
-![image](https://user-images.githubusercontent.com/81521033/180381713-9be51da7-8429-4e1f-8590-38e18586c453.png)
-
-![image](https://user-images.githubusercontent.com/81521033/180382467-0625ad20-0272-41a2-92e9-68a2d024d10a.png)
-
-### Back stage admin management system
-Check items management
-
-![image](https://user-images.githubusercontent.com/81521033/180382363-dcc9df8f-c36c-4069-9695-f94747d01d55.png)
-
-Check groups management
-
-![image](https://user-images.githubusercontent.com/81521033/180382842-97742aac-8832-422f-87b1-5e81a77bdf21.png)
-
-Packages Management
-
-![image](https://user-images.githubusercontent.com/81521033/180382975-e5ca301c-dade-4fb3-ac4b-d83ddf8f6d5d.png)
-
-Appointment Settings
-
-![image](https://user-images.githubusercontent.com/81521033/180383327-fe0ae375-22e3-428f-a38c-0aea19c9f19a.png)
-
-Number of members
-
-![image](https://user-images.githubusercontent.com/81521033/180383445-caa95f35-9815-42fa-bda7-250e73057677.png)
-
-Packages statistics
-
-![image](https://user-images.githubusercontent.com/81521033/180383548-e461bf18-3ac2-4803-b3d1-cecbd846a965.png)
-
-Operation data
-
-![image](https://user-images.githubusercontent.com/81521033/180383687-d5e6ee67-5331-4ef7-8b95-d31398ffda18.png)
-
 ## Environment 
 | Tool        | Version     | Link     |
 | ----------- | ----------- | --------                                                                 |
