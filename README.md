@@ -14,8 +14,6 @@
 
 -[Table Structure](#Table-Structure)
 
--[Screenshots](#Screenshots)
-
 -[Environment](#Environment)
 
 ## Background
